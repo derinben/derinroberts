@@ -116,7 +116,7 @@ input, select, textarea {
 /* Type */
 
 	html {
-		font-size: 16pt;
+		font-size: 20pt;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -3779,7 +3779,7 @@ input, select, textarea {
 		}
 
 		#main > .post {
-			padding: 8rem 8rem 6rem 8rem ;
+			padding: 3rem 8rem 6rem 8rem ;
 		}
 
 			#main > .post header.major > .date {
