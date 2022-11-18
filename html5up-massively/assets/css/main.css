@@ -149,7 +149,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		font-family: "Merriweather", Georgia, serif;
-		font-weight: 300;
+		font-weight: 500;
 		font-size: 1rem;
 		line-height: 2.375;
 	}
@@ -181,7 +181,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-family: "Copperplate", Helvetica, sans-serif;
+		font-family: "Bahnschrift SemiBold", Helvetica, sans-serif;
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
@@ -4589,7 +4589,7 @@ input, select, textarea {
 				#navPanel .links li a {
 					border-bottom: 0;
 					display: block;
-					font-family: "Source Sans Pro", Helvetica, sans-serif;
+					font-family: "Bahnschrift", Helvetica, sans-serif;
 					font-size: 0.9rem;
 					font-size: 0.9rem;
 					font-weight: 900;
