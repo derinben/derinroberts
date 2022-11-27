@@ -3387,7 +3387,7 @@ input, select, textarea {
 
 		#intro h1 {
 			font-size: 3.5rem;
-			line-height: 1;
+			line-height: 0.2;
 		}
 
 		#intro p {
@@ -3396,7 +3396,7 @@ input, select, textarea {
 			margin-top: -0.25rem;
 			margin-left: 3rem;
 			margin-right: 3rem;
-			text-align: left;
+			text-align: center;
 		}
 
 		#intro h2 {
